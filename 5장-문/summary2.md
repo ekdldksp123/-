@@ -317,10 +317,3 @@ class Circle {
     ```
     
 
----
-
-## 5.8 자바스크립트 문 요약
-
-![Untitled](5%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%86%E1%85%AE%E1%86%AB%20part%202%2050c913f386c442ebbb7ace905aa0d806/Untitled.png)
-
-![Untitled](5%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%86%E1%85%AE%E1%86%AB%20part%202%2050c913f386c442ebbb7ace905aa0d806/Untitled%201.png)
